@@ -1,1 +1,8 @@
 added second file
+more stuff has been added
+we are cloning
+remote to local
+making some changes
+commit the changes
+pushing it back to
+remote repository
